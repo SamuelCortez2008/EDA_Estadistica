@@ -1,3 +1,3 @@
 # EDA_Estadistica
 Análisis Exploratorio: Materia Estadística para Ciencia de Datos
-Cambios realizados por *Martha Juarez*
+Cambios realizados por *Carlos*
