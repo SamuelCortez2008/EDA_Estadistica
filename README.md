@@ -4,5 +4,4 @@ Análisis Exploratorio: Materia Estadística para Ciencia de Datos.
 Realizado por: *Samuel Cortez*
 =======
 Análisis Exploratorio: Materia Estadística para Ciencia de Datos
-Cambios realizados por *Carlos*
 
