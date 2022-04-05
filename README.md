@@ -1,4 +1,4 @@
-# Análisis Exploratorio de Datos y Modelo de Aprendizaje Automático  
+# Análisis Exploratorio de Datos y Modelo de Aprendizaje Automático para Clasificación.
 ## Proyecto Estadística para Ciencia de Datos.
 ---
 Realizado por: *Samuel Cortez*
